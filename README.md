@@ -1,10 +1,10 @@
-# English Partner Finder Telegram Bot
+# 🤖 English Partner Finder Telegram Bot
 
 [![GitHub stars](https://img.shields.io/github/stars/mhsaghatforoush/partner-go-telegram-bot.svg?style=flat-square)](https://github.com/mhsaghatforoush/partner-go-telegram-bot/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mhsaghatforoush/partner-go-telegram-bot.svg?style=flat-square)](https://github.com/mhsaghatforoush/partner-go-telegram-bot/issues)
 [![GitHub license](https://img.shields.io/github/license/mhsaghatforoush/partner-go-telegram-bot.svg?style=flat-square)](https://github.com/mhsaghatforoush/partner-go-telegram-bot/blob/main/LICENSE)
 
-[Start a conversation with the English Partner Finder Telegram Bot](https://t.me/partner_go_bot)
+[👉👉👉Start a conversation with the English Partner Telegram Bot](https://t.me/partner_go_bot)
 
 > ربات پارتنر یابی زبان انگلیسی, توسعه داده شده با زبان Go.
 
