@@ -4,7 +4,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/mhsaghatforoush/partner-go-telegram-bot.svg?style=flat-square)](https://github.com/mhsaghatforoush/partner-go-telegram-bot/issues)
 [![GitHub license](https://img.shields.io/github/license/mhsaghatforoush/partner-go-telegram-bot.svg?style=flat-square)](https://github.com/mhsaghatforoush/partner-go-telegram-bot/blob/main/LICENSE)
 
+[Start a conversation with the English Partner Finder Telegram Bot](https://t.me/partner_go_bot)
+
 > A Telegram bot for finding English language partners based on user profiles.
+> ربات پارتنر یابی زبان انگلیسی, توسعه داده شده با زبان Go.
 
 ![Demo](demo.gif)
 
@@ -13,9 +16,6 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
