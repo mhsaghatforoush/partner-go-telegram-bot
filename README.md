@@ -35,3 +35,19 @@ The English Partner Finder Telegram Bot is designed to help users find language 
 
    ```bash
    git clone https://github.com/mhsaghatforoush/partner-go-telegram-bot.git
+
+2. **Set up environment variables by creating a .env file and set your telegram apitoken:**
+
+   ```bash
+   TELEGRAM_APITOKEN=YOUR_TOKEN
+
+3. **Set up Postgres Database environment variables in gorm connection on main.go file:**
+
+   ```bash
+   gorm.Open("postgres", "host=localhost user=postgres dbname=your_db_name sslmode=disable password=your_db_password")
+
+4. **Run the bot:**
+
+   ```bash
+   go run main.go
+

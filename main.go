@@ -194,7 +194,7 @@ func main() {
 	}
 	apikey := os.Getenv("TELEGRAM_APITOKEN")
 
-	db, err = gorm.Open("postgres", "host=localhost user=postgres dbname=partner_go sslmode=disable password=987654321")
+	db, err = gorm.Open("postgres", "host=localhost user=postgres dbname=your_db_name sslmode=disable password=your_db_password")
 	if err != nil {
 		log.Fatal(err)
 	}
