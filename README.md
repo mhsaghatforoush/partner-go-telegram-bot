@@ -27,6 +27,7 @@ The English Partner Finder Telegram Bot is designed to help users find language 
 - Gender preference selection
 - Partner matching based on user profiles
 - Follow request system for connecting with language partners
+- Edit Profile
 
 ## Installation
 
