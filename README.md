@@ -26,6 +26,7 @@ The English Partner Finder Telegram Bot is designed to help users find language 
 - English proficiency level selection (Beginner, Intermediate, Advanced)
 - Gender preference selection
 - Partner matching based on user profiles
+- Find Partner system by gender & english level filter
 - Follow request system for connecting with language partners
 - Edit Profile
 
