@@ -8,7 +8,7 @@
 
 > ربات پارتنر یابی زبان انگلیسی, توسعه داده شده با زبان Go.
 
-![Demo](demo.gif)
+![Demo](demo.jpg)
 
 ## Table of Contents
 
