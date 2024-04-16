@@ -6,7 +6,6 @@
 
 [Start a conversation with the English Partner Finder Telegram Bot](https://t.me/partner_go_bot)
 
-> A Telegram bot for finding English language partners based on user profiles.
 > ربات پارتنر یابی زبان انگلیسی, توسعه داده شده با زبان Go.
 
 ![Demo](demo.gif)
